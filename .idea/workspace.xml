@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6848835f-7662-4dd9-88f2-930d4f8432d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/kafka-beginner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/src/main/java/kafka/tutorial1/ConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/src/main/java/kafka/tutorial1/ConsumerDemoAssignSeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/src/main/java/kafka/tutorial1/ConsumerDemoGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/src/main/java/kafka/tutorial1/ProducerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/src/main/java/kafka/tutorial1/ProducerDemoKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/src/main/java/kafka/tutorial1/ProducerDemoWithCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/target/classes/kafka/tutorial1/ConsumerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/target/classes/kafka/tutorial1/ConsumerDemoAssignSeek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/target/classes/kafka/tutorial1/ConsumerDemoGroups.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/target/classes/kafka/tutorial1/ProducerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/target/classes/kafka/tutorial1/ProducerDemoKeys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-basics/target/classes/kafka/tutorial1/ProducerDemoWithCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-connect/connectors/annotations-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-connect/connectors/connect-utils-0.3.105.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-connect/connectors/freemarker-2.3.25-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-connect/connectors/guava-18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-connect/connectors/jackson-annotations-2.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-connect/connectors/jackson-core-2.8.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-connect/connectors/jackson-databind-2.8.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-connect/connectors/javassist-3.19.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-connect/connectors/kafka-connect-twitter-0.2.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-connect/connectors/reflections-0.9.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-connect/connectors/twitter4j-core-4.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-connect/connectors/twitter4j-stream-4.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-consumer-elasticsearch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-consumer-elasticsearch/src/main/java/com/github/meng/kafka/consumer/ElasticSearchConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-consumer-elasticsearch/target/classes/com/github/meng/kafka/tutorial3/ElasticSearchConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-producer-twitter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-producer-twitter/src/main/java/com/github/meng/kafka/producer/TwitterProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-producer-twitter/target/classes/kafka/tutorial2/TwitterProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-streams-filter-tweets/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/kafka-streams-filter-tweets/src/main/java/com/github/meng/kafka/stream/StreamsFilterTweets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/target/classes/com/github/meng/kafka/tutorial1/ConsumerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/target/classes/com/github/meng/kafka/tutorial1/ConsumerDemoAssignSeek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/target/classes/com/github/meng/kafka/tutorial1/ConsumerDemoGroups.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/target/classes/com/github/meng/kafka/tutorial1/ProducerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/target/classes/com/github/meng/kafka/tutorial1/ProducerDemoKeys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/target/classes/com/github/meng/kafka/tutorial1/ProducerDemoWithCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/target/classes/com/github/meng/kafka/tutorial2/TwitterProducer.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23UHr6DlVXicTG5XOJYvicT2ThO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kafka-connect/connectors" />
+      <recent name="$PROJECT_DIR$/kafka-producer-twitter/src/main/java" />
+      <recent name="$PROJECT_DIR$/kafka-basics/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.meng.kafka.tutorial1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ElasticSearchConsumer (1)">
+    <configuration name="ElasticSearchConsumer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.meng.kafka.tutorial3.ElasticSearchConsumer" />
+      <module name="kafka-consumer-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.meng.kafka.tutorial3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.tutorial3.ElasticSearchConsumer" />
+      <module name="kafka-consumer-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.tutorial3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.tutorial1.ProducerDemo" />
+      <module name="kafka-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoWithCallback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.tutorial1.ProducerDemoWithCallback" />
+      <module name="kafka-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterProducer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.tutorial2.TwitterProducer" />
+      <module name="kafka-producer-twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.tutorial2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ElasticSearchConsumer (1)" />
+        <item itemvalue="Application.TwitterProducer (1)" />
+        <item itemvalue="Application.ElasticSearchConsumer" />
+        <item itemvalue="Application.ProducerDemoWithCallback" />
+        <item itemvalue="Application.ProducerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6848835f-7662-4dd9-88f2-930d4f8432d0" name="Changes" comment="" />
+      <created>1641781951876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641781951876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
